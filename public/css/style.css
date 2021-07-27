@@ -2611,6 +2611,7 @@ input:-internal-autofill-selected {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    background: #fccd04
 }
 
 @media (max-width: 991px) {
