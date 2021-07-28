@@ -7899,9 +7899,9 @@ h6 {
     width: 100%;
     height: 100%;
     content: "";
-    background-image: -moz-linear-gradient(-89deg, #fee12b 0%, #fee85e 100%);
-    background-image: -webkit-linear-gradient(-89deg, #fee12b 0%, #fee85e 100%);
-    background-image: -ms-linear-gradient(-89deg, #fee12b 0%, #fee85e 100%);
+    background-image: -moz-linear-gradient(-89deg, #ffb48f 0%, #ffb48f 100%);
+    background-image: -webkit-linear-gradient(-89deg, #ffb48f 0%, #ffb48f 100%);
+    background-image: -ms-linear-gradient(-89deg, #ffb48f 0%, #ffb48f 100%);
     opacity: 0.8;
     z-index: -1;
 }
@@ -7986,7 +7986,7 @@ h6 {
 /* line 2, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 
 .footer_part {
-    background-color: #fee12b;
+    background-color: #fccd04;
     padding: 130px 0px 25px;
 }
 
