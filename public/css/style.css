@@ -2310,7 +2310,6 @@ input:-internal-autofill-selected {
     top: 0;
     width: 100%;
     z-index: 999;
-    background-color: #a64ac9;
 }
 
 
@@ -2575,6 +2574,7 @@ input:-internal-autofill-selected {
     width: 100%;
     background-color: #fee12b;
     top: 0;
+    background-color: #a64ac9;
 }
 
 
