@@ -2310,7 +2310,6 @@ input:-internal-autofill-selected {
     top: 0;
     width: 100%;
     z-index: 999;
-    background-color: #a64ac9;
 }
 
 
