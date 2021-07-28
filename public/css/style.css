@@ -6,7 +6,6 @@
 .btn_3 {
     background-image: -webkit-linear-gradient(right, #f4eb0b 0%, #f6ef3c 50%, #f4eb0b 100%);
     background-image: linear-gradient(to left, #f4eb0b 0%, #f6ef3c 50%, #f4eb0b 100%);
-}
 
 
 /**************** common css start ****************/
@@ -2311,6 +2310,7 @@ input:-internal-autofill-selected {
     top: 0;
     width: 100%;
     z-index: 999;
+    background: #a64ac9;
 }
 
 
